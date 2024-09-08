@@ -13,7 +13,10 @@ Some Things about me:
 - ⚡ Fun fact: I know all the elements
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordschocki&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordschocki&layout=donut)](https://github.com/anuraghazra/github-readme-stats) *(yes i like java)*
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordschocki&show_icons=true&theme=chartreuse-dark) 
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordschocki&layout=donut)](https://github.com/anuraghazra/github-readme-stats) *(yes i like java)*
 
 ---
 > An idiot admires complexity, a genius admires simplicity.
