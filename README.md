@@ -1,4 +1,4 @@
-## Hello and welcome to my profile :3 :octocat:
+# Hello and welcome to my profile :3 :octocat:
 
 ### I am Schocki, an ongoing developer who enjoys all things science, maths, and the like.
 
